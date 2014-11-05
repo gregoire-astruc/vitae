@@ -12,6 +12,23 @@ body {
     font-style: italic;
 }
 
+.list-group-item-heading {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.list-group-item-heading > small {
+    font-size: 11pt;
+}
+
+.lead {
+    font-size: 11pt;
+}
+
+.dates {
+    font-size: 10pt;
+}
+
 #content {
     margin-left: auto;
 }
