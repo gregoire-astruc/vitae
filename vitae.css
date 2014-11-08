@@ -1,5 +1,7 @@
 #sidebar {
     position: fixed;
-    background: lightgray;
     height: 100%;
+}
+#sidebar > .well {
+    height: 100%
 }
