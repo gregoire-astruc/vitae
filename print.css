@@ -1,11 +1,23 @@
+@page {
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    margin-top: 1.5cm;
+    margin-bottom: 1.5cm;
+}
+
 body {
     font-size: 10pt;
     font-family: Serif;
 }
 
+.page-header {
+    margin-top: 0px;
+}
+
 .page-header h1 {
     font-size: 18pt;
     font-weight: bold;
+    margin-top: 0px;
 }
 
 .page-header h1 small {
