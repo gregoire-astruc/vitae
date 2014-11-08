@@ -12,33 +12,52 @@ body {
 
 .page-header {
     margin-top: 0px;
+    margin-bottom: 0.5cm;
 }
 
 .page-header h1 {
-    font-size: 18pt;
+    font-size: 14pt;
     font-weight: bold;
     margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .page-header h1 small {
     font-style: italic;
 }
 
+.panel {
+    margin-bottom: 0.1cm;
+}
+
+.panel-body {
+    padding: 0.2cm;
+}
+
+.list-group-item {
+    padding: 0.2cm;
+    padding-bottom: 0.3cm;
+}
+
 .list-group-item-heading {
-    font-size: 12pt;
+    font-size: 11pt;
     font-weight: bold;
 }
 
 .list-group-item-heading > small {
-    font-size: 11pt;
+    font-size: 9pt;
+}
+
+.list-unstyled {
+    margin-bottom: 0px;
 }
 
 .lead {
-    font-size: 11pt;
+    font-size: 10pt;
 }
 
 .dates {
-    font-size: 10pt;
+    font-size: 9pt;
 }
 
 #content {
