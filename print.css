@@ -60,6 +60,22 @@ body {
     font-size: 9pt;
 }
 
+.dates .date-to, .dates .date-lieu {
+    display: inline;
+}
+
+.dates .date-from, .dates .date-pays {
+    display: inline-block;
+}
+
+.dates .date-from:after {
+    content: " /";
+}
+
+.dates .date-lieu:after {
+    content: ",";
+}
+
 #content {
     margin-left: auto;
 }
