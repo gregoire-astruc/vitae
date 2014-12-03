@@ -1,8 +1,8 @@
 @page {
     margin-left: 0.5cm;
     margin-right: 0.5cm;
-    margin-top: 1.5cm;
-    margin-bottom: 1.5cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
 }
 
 body {
@@ -26,6 +26,10 @@ body {
     font-style: italic;
 }
 
+dl {
+    margin-bottom: 0.2cm;
+}
+
 .panel {
     margin-bottom: 0.1cm;
 }
@@ -35,8 +39,8 @@ body {
 }
 
 .list-group-item {
-    padding: 0.2cm;
-    padding-bottom: 0.3cm;
+    padding: 0.1cm;
+    padding-bottom: 0.2cm;
 }
 
 .list-group-item-heading {
